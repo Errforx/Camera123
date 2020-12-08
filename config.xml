@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.errforx.pingpong" version="2.25" xmlns="http://www.w3.org/ns/widgets">
+  <name>PingPong</name>
+  <description>This is a PINGPONG App(Obviously).</description>
+  <preference name="phonegap-version" value="cli-6.5.0" />
+  <preference name="permissions" value="none" />
+  <preference name="orientation" value="landscape" />
+  <preference name="target-device" value="universal" />
+  <preference name="fullscreen" value="true" />
+  <preference name="android-build-tool" value="gradle" />
+
+  <plugin name="cordova-plugin-inappbrowser" spec="1.3.0" />
+  <plugin name="cordova-plugin-device" spec="1.1.2" />
+  <plugin name="phonegap-plugin-barcodescanner" />
+
+</widget>
