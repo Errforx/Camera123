@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.errforx.pingpong" version="2.25" xmlns="http://www.w3.org/ns/widgets">
-  <name>PingPong</name>
-  <description>This is a PINGPONG App(Obviously).</description>
+  <name>Camera123</name>
+  <description>CAM123.</description>
   <preference name="phonegap-version" value="cli-6.5.0" />
   <preference name="permissions" value="none" />
   <preference name="orientation" value="landscape" />
