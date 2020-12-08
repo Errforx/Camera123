@@ -12,11 +12,19 @@ body {
 }
 
 h1,
-p {
+p,
+button {
     position: relative;
     color: white;
     text-align: center;
     justify-content: center;
     align-items: center;
     margin-top: 12px;
+}
+
+button {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    font-size: 50px;
 }
